@@ -1,0 +1,18 @@
+.header{
+    display:flex;
+    background-color: black;
+    align-items: center;
+
+}
+           
+.myname{
+    color:white;
+    flex:10;
+    text-align: left;
+    padding:0 0 0 6%;
+
+}
+.nav{
+    flex:5;
+    padding:0 3% 0 5%
+}

@@ -1,0 +1,84 @@
+
+
+.Todo{
+    border:1px #ccc solid;
+    border-radius: 12px;
+    box-shadow:1px 1px 5px black;
+    margin:1.2% 5% 1.2% 5%;
+    background-color:#cce6ff;
+    padding: 1.5%;
+   
+   
+   
+      
+}
+/*..........................................*/
+.container-1{
+    display:flex;
+    align-items: center;
+    padding:0px 0px 10px 0px;
+    margin:0 50px
+    
+    
+}
+.textfield{
+    flex:1.3;
+    text-align:right;
+    
+}
+#outlined-basic{
+    background-color: #ffffff;
+    
+}
+
+.addicon{
+    flex:1;
+    cursor: pointer;
+    text-align: left;
+    padding:0 0 0 25px;
+   
+    
+}
+
+/*..........................................*/
+.container-2{
+    display:flex;
+    border:1px #ccc solid;
+    border-radius: 7px;
+    box-shadow:1px 1px 1px black;
+    margin:2% 5%;
+    align-items: center;
+    background-color: #ffffff;
+    
+}
+
+.id{
+    flex:1;
+    font-size: medium;
+
+}
+.goal {
+    font-weight: bold;
+    flex:9;
+    width:50%;
+    text-align: left;
+    word-wrap: break-word;
+    
+}
+
+.edit{
+    flex:0.7;
+    text-align: right;
+    cursor: pointer;
+    
+}
+
+.delete{
+    flex:0.8;
+    cursor: pointer;  
+
+}
+
+/*..........................................*/
+
+    
